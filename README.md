@@ -1,6 +1,6 @@
 # OptionalWrapper
 
-It sugar syntax to unwrap the optional value:
+It's a sugar syntax to unwrap the optional value:
 
 It replaces:
 ```Swift
